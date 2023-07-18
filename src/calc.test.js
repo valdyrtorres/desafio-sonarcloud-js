@@ -1,3 +1,4 @@
+// Testes
 const { add, sub, times, divide, pow, sqrt, log10 } = require("./calc")
 
 test("add 1 + 2 to be equal 3", ()=> {
